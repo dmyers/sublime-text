@@ -8,16 +8,16 @@ My personal setup of Sublime Text packages and preferences.
 
 To install these packages, use [Package Control](http://wbond.net/sublime_packages/package_control).
 
-* Theme - Soda
-* Alignment
-* ApplySyntax
-* AutoFileName
-* DocBlockr
-* GitGutter
-* LESS
-* Phpcs
-* SASS
-* SyncedSideBar
+* [Theme - Soda](https://github.com/buymeasoda/soda-theme)
+* [Alignment](https://github.com/wbond/sublime_alignment)
+* [ApplySyntax](https://github.com/facelessuser/ApplySyntax)
+* [AutoFileName](https://github.com/BoundInCode/AutoFileName)
+* [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
+* [GitGutter](https://github.com/jisaacks/GitGutter)
+* [LESS](https://github.com/danro/LESS-sublime)
+* [Phpcs](https://github.com/benmatselby/sublime-phpcs)
+* [SASS](https://github.com/nathos/sass-textmate-bundle)
+* [SyncedSideBar](https://github.com/sobstel/SyncedSideBar)
 
 ## Preferences
 
