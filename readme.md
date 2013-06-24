@@ -43,3 +43,7 @@ To install these packages, use [Package Control](http://wbond.net/sublime_packag
 	"word_wrap": false
 }
 ```
+
+I setup the subl command to easily open files in Sublime when I'm in command line.
+
+[http://www.sublimetext.com/docs/2/osx_command_line.html](http://www.sublimetext.com/docs/2/osx_command_line.html)
