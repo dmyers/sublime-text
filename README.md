@@ -37,6 +37,7 @@ To install these packages, use [Package Control](http://wbond.net/sublime_packag
 	"scroll_past_end": true,
 	"shift_tab_unindent": true,
 	"show_full_path": true,
+	"show_minimap": false,
 	"soda_classic_tabs": true,
 	"theme": "Soda Dark.sublime-theme",
 	"trim_automatic_white_space": false,
