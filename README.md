@@ -14,6 +14,7 @@ To install these packages, use [Package Control](http://wbond.net/sublime_packag
 * [AutoFileName](https://github.com/BoundInCode/AutoFileName)
 * [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
 * [GitGutter](https://github.com/jisaacks/GitGutter)
+* [Gist](https://github.com/condemil/Gist)
 * [LESS](https://github.com/danro/LESS-sublime)
 * [Phpcs](https://github.com/benmatselby/sublime-phpcs)
 * [SASS](https://github.com/nathos/sass-textmate-bundle)
