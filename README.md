@@ -6,7 +6,7 @@ My personal setup of Sublime Text packages and preferences.
 
 ## Packages
 
-To install these packages, use [Package Control](http://wbond.net/sublime_packages/package_control).
+To install these packages, use [Package Control](https://sublime.wbond.net).
 
 * [Theme - Soda](https://github.com/buymeasoda/soda-theme)
 * [Alignment](https://github.com/wbond/sublime_alignment)
