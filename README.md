@@ -1,6 +1,6 @@
 # Sublime Text Setup
 
-My personal setup of Sublime Text packages and preferences.
+My personal setup of [Sublime Text](http://sublimetext.com) packages and preferences.
 
 ![Sublime Text 2 screenshot](https://raw.github.com/dmyers/sublime-text/master/screenshot.png)
 
