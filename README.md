@@ -12,6 +12,7 @@ To install these packages, use [Package Control](https://sublime.wbond.net).
 * [Alignment](https://github.com/wbond/sublime_alignment)
 * [ApplySyntax](https://github.com/facelessuser/ApplySyntax)
 * [AutoFileName](https://github.com/BoundInCode/AutoFileName)
+* [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter)
 * [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
 * [GitGutter](https://github.com/jisaacks/GitGutter)
 * [Gist](https://github.com/condemil/Gist)
