@@ -15,6 +15,7 @@ To install these packages, use [Package Control](https://sublime.wbond.net).
 * [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
 * [GitGutter](https://github.com/jisaacks/GitGutter)
 * [Gist](https://github.com/condemil/Gist)
+* [JSHint](https://github.com/uipoet/sublime-jshint)
 * [LESS](https://github.com/danro/LESS-sublime)
 * [Phpcs](https://github.com/benmatselby/sublime-phpcs)
 * [SASS](https://github.com/nathos/sass-textmate-bundle)
