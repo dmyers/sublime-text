@@ -19,6 +19,7 @@ To install these packages, use [Package Control](https://sublime.wbond.net).
 * [LESS](https://github.com/danro/LESS-sublime)
 * [Phpcs](https://github.com/benmatselby/sublime-phpcs)
 * [SASS](https://github.com/nathos/sass-textmate-bundle)
+* [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter-for-ST2)
 * [SyncedSideBar](https://github.com/sobstel/SyncedSideBar)
 
 ## Preferences
