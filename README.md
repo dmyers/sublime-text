@@ -25,6 +25,7 @@ To install these packages, use [Package Control](https://sublime.wbond.net).
 * [SASS](https://github.com/nathos/sass-textmate-bundle)
 * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter-for-ST2)
 * [SyncedSideBar](https://github.com/sobstel/SyncedSideBar)
+* [Tomorrow Color Schemes](https://github.com/theymaybecoders/sublime-tomorrow-theme)
 
 ## Preferences
 
