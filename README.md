@@ -19,6 +19,7 @@ To install these packages, use [Package Control](https://sublime.wbond.net).
 * [Gist](https://github.com/condemil/Gist)
 * [JSHint](https://github.com/uipoet/sublime-jshint)
 * [LESS](https://github.com/danro/LESS-sublime)
+* [LiveReload](https://github.com/dz0ny/LiveReload-sublimetext2)
 * [Phpcs](https://github.com/benmatselby/sublime-phpcs)
 * [SASS](https://github.com/nathos/sass-textmate-bundle)
 * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter-for-ST2)
