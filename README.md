@@ -30,6 +30,7 @@ To install these packages, use [Package Control](https://sublime.wbond.net).
 * [Laravel 4 Artisan](https://github.com/evgeny-golubev/Laravel-4-Artisan)
 * [Laravel 4 Facades](https://github.com/stidges/Laravel-Facades-for-ST)
 * [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)
+* [Laravel Generators](https://github.com/gnarula/sublime-laravelgenerator)
 * [LESS](https://github.com/danro/LESS-sublime)
 * [LiveReload](https://github.com/dz0ny/LiveReload-sublimetext2)
 * [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
