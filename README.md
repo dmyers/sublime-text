@@ -25,6 +25,7 @@ To install these packages, use [Package Control](https://sublime.wbond.net).
 * [GitGutter](https://github.com/jisaacks/GitGutter)
 * [Gist](https://github.com/condemil/Gist)
 * [GotoDocumentation](https://github.com/kemayo/sublime-text-2-goto-documentation)
+* [Handlebars](https://github.com/daaain/Handlebars)
 * [JSHint](https://github.com/uipoet/sublime-jshint)
 * [JSONLint](https://bitbucket.org/hmml/jsonlint)
 * [Laravel 4 Artisan](https://github.com/evgeny-golubev/Laravel-4-Artisan)
