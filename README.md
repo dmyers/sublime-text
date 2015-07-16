@@ -43,6 +43,7 @@ To install these packages, use [Package Control](https://sublime.wbond.net).
 * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter-for-ST2)
 * [Simple Rails Navigator](https://github.com/noklesta/SublimeRailsNav)
 * [SublimeREPL](https://github.com/wuub/SublimeREPL)
+* [Swift](https://github.com/quiqueg/Swift-Sublime-Package)
 * [SyncedSideBar](https://github.com/sobstel/SyncedSideBar)
 * [Tomorrow Color Schemes](https://github.com/theymaybecoders/sublime-tomorrow-theme)
 
