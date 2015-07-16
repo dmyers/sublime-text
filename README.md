@@ -44,6 +44,7 @@ To install these packages, use [Package Control](https://sublime.wbond.net).
 * [SASS](https://github.com/nathos/sass-textmate-bundle)
 * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter-for-ST2)
 * [Simple Rails Navigator](https://github.com/noklesta/SublimeRailsNav)
+* [Sublime GitHub](https://github.com/bgreenlee/sublime-github)
 * [SublimeREPL](https://github.com/wuub/SublimeREPL)
 * [Swift](https://github.com/quiqueg/Swift-Sublime-Package)
 * [SyncedSideBar](https://github.com/sobstel/SyncedSideBar)
