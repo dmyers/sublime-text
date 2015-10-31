@@ -20,6 +20,7 @@ To install these packages, use [Package Control](https://sublime.wbond.net).
 * [ColorPicker](https://github.com/weslly/ColorPicker)
 * [CTags](https://github.com/SublimeText/CTags)
 * [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
+* [Docker](https://github.com/asbjornenge/Docker.tmbundle)
 * [Dotfiles Syntax Highlighting](https://github.com/mattbanks/dotfiles-syntax-highlighting-st2)
 * [EditorConfig](https://github.com/sindresorhus/editorconfig-sublime)
 * [GitGutter](https://github.com/jisaacks/GitGutter)
