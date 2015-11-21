@@ -1,4 +1,5 @@
 {
+    "font_face": "Hack",
     "close_windows_when_empty": false,
     "color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
     "drag_text": false,
