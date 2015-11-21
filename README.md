@@ -1,8 +1,14 @@
 # Sublime Text Setup
 
-My personal setup of [Sublime Text](http://sublimetext.com) packages and preferences. I [setup the subl command](http://www.sublimetext.com/docs/2/osx_command_line.html) to easily open files in Sublime when I'm in command line.
+My personal setup of [Sublime Text](http://sublimetext.com) packages and preferences.
 
 ![Sublime Text 2 screenshot](https://raw.github.com/dmyers/sublime-text/master/screenshot.png)
+
+## Setup
+
+* Install the [preferences](https://github.com/dmyers/sublime-text/blob/master/Preferences.sublime-settings).
+* Install the [Hack font](https://github.com/chrissimpkins/Hack).
+* [Add the `subl` command](http://www.sublimetext.com/docs/2/osx_command_line.html) for CLI editor.
 
 ## Packages
 
