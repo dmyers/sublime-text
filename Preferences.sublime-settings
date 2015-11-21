@@ -1,5 +1,6 @@
 {
     "font_face": "Hack",
+    "font_size": 12.0,
     "close_windows_when_empty": false,
     "color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
     "drag_text": false,
