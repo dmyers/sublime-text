@@ -8,6 +8,10 @@
     "ensure_newline_at_eof_on_save": true,
     "fallback_encoding": "UTF-8",
     "find_selected_text": true,
+    "folder_exclude_patterns":
+    [
+        ".git"
+    ],
     "highlight_line": true,
     "highlight_modified_tabs": true,
     "hot_exit": false,
