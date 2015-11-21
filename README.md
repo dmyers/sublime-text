@@ -1,6 +1,6 @@
 # Sublime Text Setup
 
-My personal setup of [Sublime Text](http://sublimetext.com) packages and preferences.
+My personal setup of [Sublime Text](http://sublimetext.com) packages and preferences. I [setup the subl command](http://www.sublimetext.com/docs/2/osx_command_line.html) to easily open files in Sublime when I'm in command line.
 
 ![Sublime Text 2 screenshot](https://raw.github.com/dmyers/sublime-text/master/screenshot.png)
 
@@ -51,7 +51,3 @@ To install these packages, use [Package Control](https://sublime.wbond.net).
 * [Swift](https://github.com/quiqueg/Swift-Sublime-Package)
 * [SyncedSideBar](https://github.com/sobstel/SyncedSideBar)
 * [Tomorrow Color Schemes](https://github.com/theymaybecoders/sublime-tomorrow-theme)
-
-I setup the subl command to easily open files in Sublime when I'm in command line.
-
-[http://www.sublimetext.com/docs/2/osx_command_line.html](http://www.sublimetext.com/docs/2/osx_command_line.html)
