@@ -8,6 +8,7 @@ My personal setup of [Sublime Text](http://sublimetext.com) packages and prefere
 
 To install these packages, use [Package Control](https://sublime.wbond.net).
 
+* [Material Theme](https://github.com/equinusocio/material-theme)
 * [Theme - Flatland](https://github.com/thinkpixellab/flatland)
 * [Theme - Soda](https://github.com/buymeasoda/soda-theme)
 * [Theme - Spacegray](https://github.com/kkga/spacegray)
