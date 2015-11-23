@@ -30,6 +30,7 @@ To install these packages, use [Package Control](https://sublime.wbond.net).
 * [Docker](https://github.com/asbjornenge/Docker.tmbundle)
 * [Dotfiles Syntax Highlighting](https://github.com/mattbanks/dotfiles-syntax-highlighting-st2)
 * [EditorConfig](https://github.com/sindresorhus/editorconfig-sublime)
+* [Emmet](https://github.com/sergeche/emmet-sublime)
 * [GitGutter](https://github.com/jisaacks/GitGutter)
 * [Gist](https://github.com/condemil/Gist)
 * [GotoDocumentation](https://github.com/kemayo/sublime-text-2-goto-documentation)
