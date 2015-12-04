@@ -40,6 +40,7 @@ To install these packages, use [Package Control](https://sublime.wbond.net).
 * [JSONLint](https://bitbucket.org/hmml/jsonlint)
 * [Laravel 4 Artisan](https://github.com/evgeny-golubev/Laravel-4-Artisan)
 * [Laravel 4 Facades](https://github.com/stidges/Laravel-Facades-for-ST)
+* [Laravel 4 Snippets](https://github.com/bliker/laravel4-snippets)
 * [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)
 * [Laravel Generators](https://github.com/gnarula/sublime-laravelgenerator)
 * [LESS](https://github.com/danro/LESS-sublime)
