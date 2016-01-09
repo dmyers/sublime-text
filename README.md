@@ -8,7 +8,9 @@ The font is [Hack](https://github.com/chrissimpkins/Hack). The [`subl` command](
 
 ## Setup
 
-* Install the [preferences](https://github.com/dmyers/sublime-text/blob/master/Preferences.sublime-settings).
+```bash
+\curl -L https://raw.github.com/dmyers/sublime-text/master/.bootstrap | bash
+```
 
 ## Packages
 
