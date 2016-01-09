@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+# Download files
+curl -Lo sublime.tar.gz https://github.com/dmyers/sublime-text/archive/master.tar.gz
+tar -zxvf sublime.tar.gz
+rm -f sublime.tar.gz
+cd sublime-text-master
+
+# Install preferences
+mv Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/Preferences.sublime-settings 
+
+# Install packages
+mv Package\ Control.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/Package\ Control.sublime-settings 
+
+cd ../;
+rm -rf sublime-text-master;
