@@ -1,6 +1,17 @@
 {
 	"installed_packages":
 	[
+		"Emmet",
+		"Laravel 4 Artisan",
+		"Laravel 4 Facades",
+		"Laravel 4 Snippets",
+		"Laravel Blade Highlighter",
+		"LESS",
+		"Package Control",
+		"Phpcs",
+		"Sass",
+		"SyncedSideBar",
+		"Theme - Flatland",
 		"Theme - Spacegray"
 	]
 }
