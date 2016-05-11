@@ -8,7 +8,7 @@
     "find_selected_text": true,
     "folder_exclude_patterns":
     [
-        ".git"
+        ".git", ".svn"
     ],
     "font_face": "Hack",
     "font_size": 12.0,
