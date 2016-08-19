@@ -7,10 +7,13 @@ rm -f sublime.tar.gz
 cd sublime-text-master
 
 # Install preferences
-mv -f Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/Preferences.sublime-settings 
+mv -f Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/Preferences.sublime-settings
 
 # Install packages
-mv -f Package\ Control.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/Package\ Control.sublime-settings 
+mv -f Package\ Control.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/Package\ Control.sublime-settings
+
+# Install snippets
+mv -f snippets ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/
 
 cd ../;
 rm -rf sublime-text-master;
