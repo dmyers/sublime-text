@@ -61,3 +61,4 @@ To install these packages, use [Package Control](https://sublime.wbond.net).
 * [Swift](https://github.com/quiqueg/Swift-Sublime-Package)
 * [SyncedSideBar](https://github.com/sobstel/SyncedSideBar)
 * [Tomorrow Color Schemes](https://github.com/theymaybecoders/sublime-tomorrow-theme)
+* [Vuejs](https://github.com/BrainBuzzer/vuejs-sublime-complete)
