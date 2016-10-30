@@ -9,12 +9,12 @@
     "folder_exclude_patterns":
     [
         "vendor",
-		"storage/framework",
-		"node_modules",
-		"bower_components",
-		".vagrant",
-		".git",
-		".svn"
+	"storage/framework",
+	"node_modules",
+	"bower_components",
+	".vagrant",
+	".git",
+	".svn"
     ],
     "font_face": "Hack",
     "font_size": 12.0,
