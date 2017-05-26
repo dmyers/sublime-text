@@ -50,6 +50,7 @@ To install these packages, use [Package Control](https://sublime.wbond.net).
 * [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
 * [Phpcs](https://github.com/benmatselby/sublime-phpcs)
 * [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson)
+* [Pug](https://github.com/davidrios/pug-tmbundle)
 * [RubyCheckOnSave](https://github.com/edgar/RubyCheckOnSave)
 * [RubyFormat](https://github.com/zmbacker/RubyFormat)
 * [RubyTest](https://github.com/maltize/sublime-text-2-ruby-tests)
