@@ -20,7 +20,12 @@
         ".svn"
     ],
     "font_face": "Hack",
-    "font_size": 12.0,
+	"font_options":
+	[
+		"gray_antialias",
+		"subpixel_antialias"
+	],
+	"font_size": 14.0,
     "highlight_line": true,
     "highlight_modified_tabs": true,
     "hot_exit": true,
