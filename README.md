@@ -48,6 +48,7 @@ To install these packages, use [Package Control](https://sublime.wbond.net).
 * [LESS](https://github.com/danro/LESS-sublime)
 * [LiveReload](https://github.com/dz0ny/LiveReload-sublimetext2)
 * [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
+* [ProjectManager](https://github.com/randy3k/ProjectManager)
 * [Phpcs](https://github.com/benmatselby/sublime-phpcs)
 * [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson)
 * [Pug](https://github.com/davidrios/pug-tmbundle)
