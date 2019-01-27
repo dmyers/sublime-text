@@ -66,6 +66,7 @@ To install these packages, use [Package Control](https://sublime.wbond.net).
 * [RubyFormat](https://github.com/zmbacker/RubyFormat)
 * [RubyTest](https://github.com/maltize/sublime-text-2-ruby-tests)
 * [SASS](https://github.com/nathos/sass-textmate-bundle)
+* [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
 * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter)
 * [SublimeLinter-php](https://github.com/SublimeLinter/SublimeLinter-php)
 * [Simple Rails Navigator](https://github.com/noklesta/SublimeRailsNav)
