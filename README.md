@@ -16,10 +16,13 @@ The font is [Hack](https://github.com/chrissimpkins/Hack). The [`subl` command](
 
 To install these packages, use [Package Control](https://sublime.wbond.net).
 
+### Themes
 * [Material Theme](https://github.com/equinusocio/material-theme)
 * [Theme - Flatland](https://github.com/thinkpixellab/flatland)
 * [Theme - Soda](https://github.com/buymeasoda/soda-theme)
 * [Theme - Spacegray](https://github.com/kkga/spacegray)
+
+### General
 * [Alignment](https://github.com/wbond/sublime_alignment)
 * [ApplySyntax](https://github.com/facelessuser/ApplySyntax)
 * [AutoFileName](https://github.com/BoundInCode/AutoFileName)
