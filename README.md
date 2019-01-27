@@ -45,6 +45,7 @@ To install these packages, use [Package Control](https://sublime.wbond.net).
 * [Laravel 4 Snippets](https://github.com/bliker/laravel4-snippets)
 * [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)
 * [Laravel Generator](https://github.com/gnarula/sublime-laravelgenerator)
+* [Laravel Helper Completions](https://github.com/james2doyle/laravel-helper-completions)
 * [LESS](https://github.com/danro/LESS-sublime)
 * [LiveReload](https://github.com/dz0ny/LiveReload-sublimetext2)
 * [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
