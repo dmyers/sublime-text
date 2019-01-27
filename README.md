@@ -37,6 +37,7 @@ To install these packages, use [Package Control](https://sublime.wbond.net).
 
 ### Coding
 * [BeautifyRuby](https://github.com/CraigWilliams/BeautifyRuby)
+* [Blade Snippets](https://github.com/dev4dev/blade-snippets)
 * [Bootstrap 3 Snippets](https://github.com/JasonMortonNZ/bs3-sublime-plugin)
 * [CTags](https://github.com/SublimeText/CTags)
 * [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
