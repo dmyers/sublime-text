@@ -15,7 +15,6 @@
         "vendor",
         "storage/framework",
         "node_modules",
-        "bower_components",
         ".vagrant",
         ".git",
         ".svn"
