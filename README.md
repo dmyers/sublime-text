@@ -73,5 +73,4 @@ To install these packages, use [Package Control](https://sublime.wbond.net).
 * [Sublime GitHub](https://github.com/bgreenlee/sublime-github)
 * [SublimeREPL](https://github.com/wuub/SublimeREPL)
 * [Swift](https://github.com/quiqueg/Swift-Sublime-Package)
-* [Vuejs](https://github.com/BrainBuzzer/vuejs-sublime-complete)
 * [Vue Syntax Highlight](https://github.com/vuejs/vue-syntax-highlight)
